@@ -1,5 +1,8 @@
 # PI-3_ANDRE_TANAKA_2023-2
 
+## Problema
+O barco solar da equipe Zênite do IFSC participa da competição Desafio Solar Brasil, para o desenvolvimento dos sistemas do barco e o acompanhamento durante a competição, um sistema de telemetria é importante para a estratégia nas estapas da competição e para identificação de problemas no barco. A necessidade então é como obter esses dados em tempo real enquanto o barco está navegando por alguém que não esteja abordo.
+
 ## Objetivo
 Este projeto visa implementar um sistema de comunicação sem fio entre uma embarcação solar e um computador.
 
@@ -8,7 +11,8 @@ Este projeto visa implementar um sistema de comunicação sem fio entre uma emba
 | Atividade | Semanas   |
 | ----------------------------------------------------------------- | ------------ |
 | Definição do projeto | 1, 2 e 3 |
-| Estudo de sistemas de transmissão de dados sem fio | 3 e 4 |
+| Descrição do trabalho(Problemática e objetivo) | 3 e 4 |
+| Estudo de referências bibliográficas | 5 e 6 |
 | Definição dos requesitos de projeto | 5 e 6 |
 | Definição do tipo de sistema de transmissão de dados sem fio | 6 e 7 |
 | Definição do hardware a ser implementado | 7, 8 e 9 |
