@@ -30,7 +30,7 @@ Este projeto visa implementar um sistema de comunicação sem fio entre uma emba
 ![Diagrama de blocos PI3 -2](https://github.com/andretanaka29/PI-3_ANDRE_TANAKA_2023-2/assets/45289349/374546f6-34ad-4162-8971-d12ea5927eff)
 
 ## Requesitos de projeto
--Alimentação via bateria de 12 V.
--Baixo consumo.
--Para o alcance deve ser considerada a prova de maior distância do DSB, que é de 5 milhas(8 km).
--Usar barramento CAN para aquisição de dados dos sensores.
+- Alimentação via bateria de 12 V.
+- Baixo consumo.
+- Para o alcance deve ser considerada a prova de maior distância do DSB, que é de 5 milhas(8 km).
+- Usar barramento CAN para aquisição de dados dos sensores.
